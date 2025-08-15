@@ -1,7 +1,5 @@
 # Sanskriti Oza
 
-&nbsp;|&nbsp; **Email:** [osanskriti11@gmail.com](mailto:osanskriti11@gmail.com) &nbsp;|&nbsp; **[LinkedIn](https://www.linkedin.com/in/sanskriti-oza)**
-
 ---
 
 ## 👩‍💻 About Me
