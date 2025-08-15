@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate and dynamic educator with a robust foundation in IT, coding, and guest services. Currently, I excel as a Coach at KidsUnlimited and serve as Head Tutor at CodeCamp, where I inspire children aged 7–14 to explore chess, science, animation, coding, and robotics through interactive, project-based learning.
+A passionate and dynamic educator with a robust foundation in IT, coding, and guest services. Currently, I excel as a Coach at KidsUnlimited and serve as Head Tutor at CodeCamp, where I inspire children aged 7–14 to explore chess, science, animation, coding, and robotics through interactive, project-based learning.
 
 With prior experience in IT support, programming instruction, and customer engagement, I thrive on creating environments that spark curiosity and innovation. My technical expertise spans Python, Java, JavaScript, SQL, and more, complemented by ongoing postgraduate studies in IT (Digital Leadership). Communication and mentorship are my superpowers—empowering young minds is my mission.
 
@@ -30,7 +30,8 @@ _Jun 2025 – Present_
 
 ### Glad Group, Victoria, Australia — _Guest Services_  
 _May 2025 – Present_  
-- eExams eSolutions
+- Provide information about the shopping centre, store locations, special events, promotions and gift wrapping  
+- Assist with general inquiries, amenities, and equipment rentals (e-scooters, wheelchairs)
 
 ### KidsUnlimited, Victoria, Australia — _Coach_  
 _Jan 2025 – Present_  
@@ -41,7 +42,7 @@ _Jan 2025 – Present_
 ### Vicinity Centres, The Glen, VIC, Australia — _Guest Experience Representative_  
 _Dec 2024 – Present_  
 - Provide information about the shopping centre, store locations, special events, and promotions  
-- Assist with general inquiries, amenities, and equipment rentals (e-scooters, wheelchairs)
+- Assist with general inquiries, amenities, and equipment hiring (e-scooters, wheelchairs)
 
 ### CodeCamp, Victoria, Australia — _Head Tutor_  
 _Dec 2024 – Present_  
