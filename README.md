@@ -20,7 +20,7 @@ Java | Python | JavaScript | HTML | CSS | PHP | SQL
 
 ## 💼💻 Professional Experience
 
-### Monash University, Victoria, Australia — _IT Support Officer_  
+### Monash University, Victoria, Australia — _Application Support Officer_  
 _Jun 2025 – Present_  
 - eExams IT Support Officer, eAssessment Service Centre, ICT Commercial Operations & Support Services, eSolutions
 - Enhanced performance of digital platforms through technical troubleshooting and workflow automation support.  
