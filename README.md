@@ -2,7 +2,7 @@
 
 ---
 
-## 👧💻 About Me
+## 👩🏻‍💻 About Me
 
 A passionate and dynamic educator with a robust foundation in IT, coding, and guest services. Currently, I excel as a Coach at KidsUnlimited and serve as Head Tutor at CodeCamp, where I inspire children aged 7–14 through hands-on teaching in chess, science, animation, coding, and robotics. I blend technical knowledge with strong communication and mentoring skills to create engaging, project-based learning experiences that foster curiosity, creativity, and problem-solving.
 
