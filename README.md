@@ -96,13 +96,6 @@ _Jul 2016 – May 2020_
 
 ---
 
-## 🛂 Working Rights
-
-FULL WORKING RIGHTS — TEMPORARY GRADUATE (SUBCLASS 485)  
-Valid: 19 AUG 2025 – 19 AUG 2028
-
----
-
 ## 🤝 Volunteering
 
 ### Ambassador — STEM Sisters  
