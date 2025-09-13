@@ -4,9 +4,7 @@
 
 ## 👩🏻‍💻 About Me
 
-A passionate and dynamic educator with a robust foundation in IT, coding, and guest services. Currently, I excel as a Coach at KidsUnlimited and serve as Head Tutor at CodeCamp, where I inspire children aged 7–14 through hands-on teaching in chess, science, animation, coding, and robotics. I blend technical knowledge with strong communication and mentoring skills to create engaging, project-based learning experiences that foster curiosity, creativity, and problem-solving.
-
-With prior experience in IT support, programming instruction, and customer engagement, I thrive on creating environments that spark curiosity and innovation. My technical expertise spans Python, Java, JavaScript, SQL, HTML, CSS, and PHP.
+IT professional with experience in software development, IT support, and workflow automation, supported by a Master of IT. Skilled in programming (Python, Java, JavaScript, SQL) and troubleshooting complex issues. Strong background in customer service and tutoring, with proven ability to communicate technical concepts clearly, collaborate across teams, and deliver user-focused solutions.
 
 ---
 
