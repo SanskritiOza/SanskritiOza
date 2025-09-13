@@ -88,12 +88,12 @@ _Jul 2024 – Jun 2025_
 
 **Graduate Diploma of Information Technology**  
 Monash University, Melbourne, Australia  
-_Jul 2022 – Jun 2024_
+_Jul 2022 – Jun 2024_  
 - Recipient of Summer Vacation Research Scholarship: Systematic Literature Review using PRISMA around voice assistants and smart speakers in healthcare
 
 **Bachelor of Engineering (Information Technology)**  
 International Institute of Information Technology, Pune, India  
-_Jul 2016 – May 2020_
+_Jul 2016 – May 2020_  
 - First Runners Up Team in University Intercollegiate Chess Tournament (Women) 2018-19
 
 ---
@@ -139,7 +139,7 @@ _Science and Technology_
 ## 🌟 Let's Connect!
 
 I am always open to new opportunities, collaborations, and conversations about education, technology, and innovation.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanskriti-oza), [Instagram](https://www.instagram.com/woomoon711/) or reach out via email at [osanskriti11@gmail.com](mailto:osanskriti11@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanskriti-oza), [Instagram](https://www.instagram.com/woomoon711/), [YouTube](https://www.youtube.com/@SanskritiOza) or reach out via email at [osanskriti11@gmail.com](mailto:osanskriti11@gmail.com).
 
 ---
 
