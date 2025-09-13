@@ -4,9 +4,9 @@
 
 ## 👩‍💻 About Me
 
-A passionate and dynamic educator with a robust foundation in IT, coding, and guest services. Currently, I excel as a Coach at KidsUnlimited and serve as Head Tutor at CodeCamp, where I inspire children aged 7–14 to explore chess, science, animation, coding, and robotics through interactive, project-based learning.
+A passionate and dynamic educator with a robust foundation in IT, coding, and guest services. Currently, I excel as a Coach at KidsUnlimited and serve as Head Tutor at CodeCamp, where I inspire children aged 7–14 through hands-on teaching in chess, science, animation, coding, and robotics. I blend technical knowledge with strong communication and mentoring skills to create engaging, project-based learning experiences that foster curiosity, creativity, and problem-solving.
 
-With prior experience in IT support, programming instruction, and customer engagement, I thrive on creating environments that spark curiosity and innovation. My technical expertise spans Python, Java, JavaScript, SQL, and more, complemented by ongoing postgraduate studies in IT (Digital Leadership). Communication and mentorship are my superpowers—empowering young minds is my mission.
+With prior experience in IT support, programming instruction, and customer engagement, I thrive on creating environments that spark curiosity and innovation. My technical expertise spans Python, Java, JavaScript, SQL, HTML, CSS, and PHP.
 
 ---
 
@@ -25,6 +25,9 @@ Java | Python | JavaScript | HTML | CSS | PHP | SQL
 ### Monash University, Victoria, Australia — _IT Support Officer_  
 _Jun 2025 – Present_  
 - eExams IT Support Officer, eAssessment Service Centre, ICT Commercial Operations & Support Services, eSolutions
+- Enhanced performance of digital platforms through technical troubleshooting and workflow automation support.  
+- Delivered real-time solutions for software, hardware, and access issues during critical exam operations.  
+- Collaborated with cross-functional teams to maintain secure and efficient digital environments.
 
 ### Glad Group, Victoria, Australia — _Guest Services_  
 _May 2025 – Present_  
@@ -50,9 +53,9 @@ _Dec 2024 – Present_
 
 ### ExeQuantum, Melbourne, VIC, Australia — _Software Engineer_  
 _May 2024 – Feb 2024_  
-- Developed and maintained web/mobile applications  
-- Created technical content to support knowledge sharing  
-- Led outreach via webinars and events, collaborating in a startup environment
+- Developed and maintained web/mobile applications using JavaScript, Python, and APIs  
+- Contributed to CI/CD pipeline discussions and version control strategies  
+- Conducted company outreach via webinars and events
 
 ### Specsavers, Chadstone, VIC, Australia — _Optical Assistant Level 1_  
 _Sep 2024 – Oct 2024_  
@@ -61,8 +64,8 @@ _Sep 2024 – Oct 2024_
 
 ### CodeKaroYaaro, Remote, India — _Coding/Programming Tutor_  
 _Dec 2023 – Feb 2024_  
-- Delivered engaging, age-appropriate Python programming lessons  
-- Fostered a collaborative, positive, and creative learning environment
+- Delivered engaging, age-appropriate Python programming lessons and project-based learning
+- Adapted teaching methods to different learning paces and styles
 
 ### Vicinity Centres, Chadstone, VIC, Australia — _Guest Experience Representative_  
 _Oct 2022 – Oct 2023_  
@@ -72,7 +75,8 @@ _Oct 2022 – Oct 2023_
 _Aug 2020 – Jun 2022_  
 - Troubleshot SaaS product (NICE-Satmetrix) for enterprise clients  
 - Managed client queries via ServiceNow  
-- Investigated Informatica disruptions and maintained product knowledge base
+- Investigated Informatica disruptions and maintained product knowledge base  
+- Recognised with a SPOT Award (May 2021) for exceptional customer satisfaction.
 
 ---
 
@@ -84,11 +88,20 @@ _Jul 2024 – Jun 2025_
 
 **Graduate Diploma of Information Technology**  
 Monash University, Melbourne, Australia  
-_Jul 2022 – Jul 2024_
+_Jul 2022 – Jun 2024_
+- Recipient of Summer Vacation Research Scholarship: Systematic Literature Review using PRISMA around voice assistants and smart speakers in healthcare
 
 **Bachelor of Engineering (Information Technology)**  
 International Institute of Information Technology, Pune, India  
 _Jul 2016 – May 2020_
+- First Runners Up Team in University Intercollegiate Chess Tournament (Women) 2018-19
+
+---
+
+## 🛂 Working Rights
+
+FULL WORKING RIGHTS — TEMPORARY GRADUATE (SUBCLASS 485)  
+Valid: 19 AUG 2025 – 19 AUG 2028
 
 ---
 
@@ -96,7 +109,7 @@ _Jul 2016 – May 2020_
 
 ### Ambassador — STEM Sisters  
 **Jul 2025 – Present · 2 mos**  
-_Education_  
+_Education_
 
 ---
 
