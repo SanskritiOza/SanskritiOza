@@ -132,7 +132,7 @@ _Science and Technology_
 ## 🌐📬 Let's Connect!
 
 I am always open to new opportunities, collaborations, and conversations about education, technology, and innovation.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanskriti-oza), [Instagram](https://www.instagram.com/woomoon711/), [YouTube](https://www.youtube.com/@SanskritiOza) or reac[...]
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanskriti-oza), [Instagram](https://www.instagram.com/woomoon711/), [YouTube](https://www.youtube.com/@SanskritiOza) 
 
 ---
 
