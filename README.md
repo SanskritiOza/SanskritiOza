@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 About Me
 
-IT professional with experience in software development, IT support, and workflow automation, supported by a Master of IT. Skilled in programming (Python, Java, JavaScript, SQL) and troubleshooting complex issues. Strong background in customer service and tutoring, with proven ability to communicate technical concepts clearly, collaborate across teams, and deliver user-focused solutions.
+IT professional with experience in software development, IT support, and workflow automation, supported by a Master of IT. Skilled in programming (Python, Java, JavaScript, SQL) and troubleshooting[...]
 
 ---
 
@@ -62,7 +62,7 @@ _Sep 2024 – Oct 2024_
 
 ### CodeKaroYaaro, Remote, India — _Coding/Programming Tutor_  
 _Dec 2023 – Feb 2024_  
-- Delivered engaging, age-appropriate Python programming lessons and project-based learning
+- Delivered engaging, age-appropriate Python programming lessons and project-based learning  
 - Adapted teaching methods to different learning paces and styles
 
 ### Vicinity Centres, Chadstone, VIC, Australia — _Guest Experience Representative_  
@@ -127,10 +127,16 @@ _Science and Technology_
 
 ---
 
+### Qiskit Advocate  
+_Nov 2025 - Present_  
+- With Qiskit
+
+---
+
 ## 🌐📬 Let's Connect!
 
 I am always open to new opportunities, collaborations, and conversations about education, technology, and innovation.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanskriti-oza), [Instagram](https://www.instagram.com/woomoon711/), [YouTube](https://www.youtube.com/@SanskritiOza) or reach out via email at [osanskriti11@gmail.com](mailto:osanskriti11@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanskriti-oza), [Instagram](https://www.instagram.com/woomoon711/), [YouTube](https://www.youtube.com/@SanskritiOza) or reac[...]
 
 ---
 
