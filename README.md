@@ -20,8 +20,11 @@ Java | Python | JavaScript | HTML | CSS | PHP | SQL
 
 ## 💼💻 Professional Experience
 
+### Qiskit Advocate  
+_Nov 2025 - Present_  
+
 ### Monash University, Victoria, Australia — _Application Support Officer_  
-_Jun 2025 – Present_  
+_Jun 2025 – Sep 2025_  
 - eExams IT Support Officer, eAssessment Service Centre, ICT Commercial Operations & Support Services, eSolutions
 - Enhanced performance of digital platforms through technical troubleshooting and workflow automation support.  
 - Delivered real-time solutions for software, hardware, and access issues during critical exam operations.  
@@ -124,13 +127,6 @@ _Science and Technology_
 - Took 3 sessions on Python refresher.
 - Part of Women in Quantum Panel.
 - Took lectures on introduction to quantum computing in week 1 and week 3.
-
----
-
-### Qiskit Advocate  
-_Nov 2025 - Present_  
-- With Qiskit
-
 ---
 
 ## 🌐📬 Let's Connect!
